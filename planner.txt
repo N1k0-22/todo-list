@@ -1,0 +1,8 @@
+Členové týmu a rozdělení úkolů:
+
+Účet N1k0-22: matematika
+Účet N1ky222: informatika
+
+Každý člen doplňuje úkoly do příslušného souboru ve složce tasks:
+- tasks/math.txt
+- tasks/programming.txt
