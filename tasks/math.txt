@@ -1,0 +1,9 @@
+Úkoly z matematiky:
+- Procvičit derivace funkcí (lineární, kvadratické, exponenciální)
+- Vyřešit 5 úloh s rovnicemi a nerovnicemi
+- Procvičit řešení soustav lineárních rovnic
+
+Úkoly - lineární funkce:
+- Určit směrnici a průsečík s osou y pro zadanou lineární funkci
+- Nakreslit grafy několika lineárních funkcí a porovnat jejich průsečíky
+- Najít body průsečíku dvou lineárních funkcí a popsat jejich vzájemnou polohu
