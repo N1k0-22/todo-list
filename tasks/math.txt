@@ -1,0 +1,4 @@
+Úkoly z matematiky:
+- Procvičit derivace funkcí (lineární, kvadratické, exponenciální)
+- Vyřešit 5 úloh s rovnicemi a nerovnicemi
+- Procvičit řešení soustav lineárních rovnic
